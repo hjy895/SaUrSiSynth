@@ -1,0 +1,53 @@
+{
+  "pairs": {
+    "Sa-Ur": {
+      "BLEU": 32.27,
+      "COMET": null,
+      "ChrF": 59.69,
+      "WER": 0.248,
+      "n": 50
+    },
+    "Sa-Si": {
+      "BLEU": 33.15,
+      "COMET": null,
+      "ChrF": 52.89,
+      "WER": 0.248,
+      "n": 50
+    },
+    "Ur-Si": {
+      "BLEU": 32.61,
+      "COMET": null,
+      "ChrF": 52.08,
+      "WER": 0.223,
+      "n": 50
+    }
+  },
+  "domains": {
+    "Sa-Ur": {
+      "Gen": {
+        "BLEU": 32.27,
+        "ChrF": 59.69,
+        "WER": 0.248,
+        "n": 50
+      }
+    },
+    "Sa-Si": {
+      "Gen": {
+        "BLEU": 33.15,
+        "ChrF": 52.89,
+        "WER": 0.248,
+        "n": 50
+      }
+    },
+    "Ur-Si": {
+      "Gen": {
+        "BLEU": 32.61,
+        "ChrF": 52.08,
+        "WER": 0.223,
+        "n": 50
+      }
+    }
+  },
+  "whisper": "openai/whisper-small",
+  "nllb": "facebook/nllb-200-distilled-600M"
+}
