@@ -3,7 +3,7 @@
 Synthetic tri-parallel speech corpus for **Saraiki–Urdu–Sindhi** spoken language translation.
 
 ## Links
-- Dataset (Hugging Face): https://huggingface.co/datasets/saursisynth/saursisynth
+- Dataset (Hugging Face): https://huggingface.co/datasets/saursisynth/
 - This repo: scripts + experiment results (no bulk WAVs)
 
 ## Quickstart
